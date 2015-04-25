@@ -1,10 +1,3 @@
-//ID: 300746683
-//User : barelozana
-//Name : shay barel ozana
-//
-//ID: 300433828
-//User: amirskal
-//Name: Amir Skalka
 
 /**
  * D-Heap
